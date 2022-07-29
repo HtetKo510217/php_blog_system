@@ -6,9 +6,11 @@ php mini blog system version 1.0
 
 ### Built With
 
-* [![pure php][php.com]][php]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* Pure PHP
+* Bootstrap 5
+* JQuery
+* CSS
+
 
 
 
