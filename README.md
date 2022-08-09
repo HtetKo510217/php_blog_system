@@ -11,6 +11,8 @@ php mini blog system version 1.0
 * Bootstrap 5
 * JQuery
 * CSS
+* design layout admin Lte
+
 
 
 
