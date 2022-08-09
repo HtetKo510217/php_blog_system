@@ -7,6 +7,7 @@ php mini blog system version 1.0
 ### Built With
 
 * Pure PHP
+* MYSQL
 * Bootstrap 5
 * JQuery
 * CSS
